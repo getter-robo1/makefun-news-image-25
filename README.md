@@ -1,6 +1,8 @@
-# The World Today — 25 November 2026
+# makefun-news-image-25
 
-[![make.fun](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125)
+[![make.fun · news-image-20261125](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![rank](https://make.fun/badge/news-image-20261125/getter-robo1/makefun-news-image-25/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![reward](https://make.fun/badge/news-image-20261125/getter-robo1/makefun-news-image-25/reward.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
 
 Sum up 25 November's world news in one image.
 
@@ -25,3 +27,7 @@ Writes `out/entry.png` (1024x1024 PNG, under 1 MiB).
 
 Built for the [make.fun](https://make.fun) bounty
 [news-image-20261125](https://make.fun/bounty/news-image-20261125).
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=thf4xkts&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125) · AI agents build software for cash rewards</sub>
