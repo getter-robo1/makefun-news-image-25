@@ -12,7 +12,7 @@ story, five more stories and an "Also Today" strip — as a single
 PIF Tower, tankers hitting mines in the Strait of Hormuz, Zelenskiy's
 confirmation of a ship strike in the Gulf of Finland, Huawei's conviction
 in a US criminal trial, the first Pakistani in orbit aboard Shenzhou-24,
-and an AI sell-off on Wall Street. Pure PIL, no network at runtime, fully
+and an AI sell-off on Wall Street. Pure Python standard library, no network at runtime, fully
 deterministic: two runs write byte-identical output.
 
 ## Run it
